@@ -9,8 +9,8 @@ We present a new type of acquisition functions for online decision making in mul
 ## Citation
 
         @article{yang2021output,
-        title={Output-Weighted Sampling for Multi-Armed Bandits with Extreme Payoffs},
-        author={Yang, Yibo and Blanchard, Antoine and Sapsis, Themistoklis and Perdikaris, Paris},
-        journal={arXiv preprint arXiv:2102.10085},
-        year={2021}
+                title={Output-Weighted Sampling for Multi-Armed Bandits with Extreme Payoffs},
+                author={Yang, Yibo and Blanchard, Antoine and Sapsis, Themistoklis and Perdikaris, Paris},
+                journal={arXiv preprint arXiv:2102.10085},
+                year={2021}
         }
